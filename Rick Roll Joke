@@ -1,0 +1,2 @@
+from selenium import webdriver
+driver.get(§Coding is fun§)
